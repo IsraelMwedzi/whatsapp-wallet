@@ -1,5 +1,3 @@
-
-
 class Session {
 
    static _sessions = new Map();
